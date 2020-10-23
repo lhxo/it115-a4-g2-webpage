@@ -44,6 +44,7 @@ body {
     grid-column-end: 13;
     background: #f8d598;
     padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .wrapper33Content {
@@ -51,6 +52,7 @@ body {
     grid-column-end: 5;
     background: #f8d598;
     padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .wrapper66Content {
@@ -58,6 +60,7 @@ body {
     grid-column-end: 13;
     background: #f8d598;
     padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .wrapperContent66 {
@@ -65,6 +68,7 @@ body {
     grid-column-end: 9;
     background: #f8d598;
     padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .wrapperContent33 {
@@ -72,18 +76,21 @@ body {
     grid-column-end: 13;
     background: #f8d598;
     padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .wrapperContentThird {
     grid-column: span 4;
     background: #f8d598;
     padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .wrapperContentHalf {
     grid-column: span 6;
     background: #f8d598;
     padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .copyright {
