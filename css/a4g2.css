@@ -6,8 +6,8 @@
 
 @font-face {
     font-family: 'cc_monster_mashmedium';
-    src: url('cc_monster_mash_medium-webfont.woff2') format('woff2'),
-         url('cc_monster_mash_medium-webfont.woff') format('woff');
+    src: url('../font/cc_monster_mash_medium-webfont.woff2') format('woff2'),
+         url('../font/cc_monster_mash_medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
