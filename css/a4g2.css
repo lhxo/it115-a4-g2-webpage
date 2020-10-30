@@ -117,3 +117,42 @@ body {
     color: #a7a9ac;
     text-decoration: none; 
 }
+
+/*Hien adds the style for text*/
+body {
+  font-family: 'IM Fell English', serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #000;
+  
+}
+
+h1, h2, h3, h4, h5, h6, figure {
+  color: #000;
+  font-family: 'IM Fell English', serif;
+  font-weight: 400;
+  margin: 0 0 0 0;
+}
+h1{font-size: 50px;
+}
+
+h2{font-size: 35px;
+margin-top: 50px;}
+h3{font-weight:600;}
+
+p {
+  margin-bottom: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+/*END Hien adds the style for text*/
+
+
+
